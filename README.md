@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @williamjwang!
 
-- 👀 I’m interested in mathematics, computer science, and mathematical finance.
+- 👀 I’m currently a third-year math and computer science double major at Rutgers University.
 
-- 🌱 I’m currently learning about how to apply certain topics in mathematics in finance, such as stochastic calculus and Monte Carlo simulation to estimate VaR.
+- 🌱 I’m currently learning about software methodology, algorithms, mathematical finance, and stochastic processes. I'm also actively involved in the Rutgers Quantitative Finance Club as the mathematics chair, and enjoy playing the piano in my free time!
 
 - 📫 How to reach me:
   - Email: williamwang2468@gmail.com
