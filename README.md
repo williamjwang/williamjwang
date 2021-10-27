@@ -6,7 +6,7 @@
 
 - 📫 How to reach me:
   - Email: williamwang2468@gmail.com
-  - LinkedIn: linkedin.com/in/williamjwang
+  - LinkedIn: https://www.linkedin.com/in/williamjwang
 
 <!---
 williamjwang/williamjwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
