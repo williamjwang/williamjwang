@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @williamjwang!
 
-- 👀 I’m currently a fourth-year (senior) math and computer science double major at Rutgers University.
-
-- 🌱 I’m currently learning about machine learning and mathematical analysis. I'm also actively involved in the Rutgers Quantitative Finance Club as the mathematics chair, and enjoy playing the piano in my free time!
+- 👀 I’m a Rutgers - NB alum, I majored in Math and Computer Science
 
 - 📫 How to reach me:
   - Email: williamwang2468@gmail.com
